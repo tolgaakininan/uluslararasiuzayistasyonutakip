@@ -3,7 +3,7 @@ import requests
 from smtplib import *
 from time import sleep
 
-
+# https://www.latlong.net sitesinden enlem boylam bilgilerinizi alıp aşağıya girin aşağıda kullanılanlar istanbul verileri
 KULLANICI_ENLEM = 41.008240
 KULLANICI_BOYLAM = 28.978359
 
